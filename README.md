@@ -23,6 +23,6 @@ Optimization of a multi-energy industrial site (Heat & Cooling) using Machine Le
 2.  Run the notebook `Projet_V1.ipynb`.
 
 ## 📊 Results
-* Achieved **60% Renewable Energy Rate** on the test year (2025).
+* Achieved **60% Renewable Energy Rate** on the test year (2024) du to 2025 wasn't finished.
 * Zero load shedding (100% demand coverage).
 * Automatic management of seasonality (Biomass baseload vs Gas peak).
